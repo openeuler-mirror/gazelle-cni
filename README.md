@@ -1,37 +1,41 @@
 # gazelle-cni
 
-#### 介绍
-A high-performance cni provides tcp/udp stack, which powered by xdp and dpdk
+gazelle是一个高性能容器网络插件，基于xdp、dpdk技术开发，支持TCP/UDP协议能力；
 
-#### 软件架构
-软件架构说明
+#### 动机
 
+todo：写清楚创建gazelle-cni项目的背景、要解决的问题及目标；
 
-#### 安装教程
+#### 总体介绍
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+todo：总体介绍gazelle-cni，写清楚是如何工作的，主要的部件及总体架构；部件的详细介绍链接到其他md页；
 
-#### 使用说明
+#### 入门
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+##### 安装
 
-#### 参与贡献
+todo：给出gazelle-cni的安装步骤；
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+##### 部署
 
+todo：给出gazelle-cni的部署步骤；
 
-#### 特技
+##### 业务配套
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+todo：介绍上层应用如何使用gazelle-cni
+
+#### 特性说明
+
+todo：介绍gazelle-cni的关键特性；
+
+#### 适用场景
+
+todo：介绍下基于gazelle-cni的不同应用场景下的解决方案；
+
+#### 演进规划
+
+#### 如何加入
+
+#### 许可证
+
+#### 联系我们
