@@ -1,4 +1,5 @@
 # Gazelle-cni
+仓库状态设置为关闭的原因: https://gitee.com/openeuler/community/pulls/3795
 
 #### 动机
 
