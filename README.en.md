@@ -1,4 +1,5 @@
 # Gazelle-cni
+Reason why the repository's state is set to be closed: https://gitee.com/openeuler/community/pulls/3795
 
 #### Motivation
 
